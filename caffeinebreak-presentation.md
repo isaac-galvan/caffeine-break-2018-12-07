@@ -93,10 +93,27 @@ team code: ieg2r96
 
 1. make a **Status Alerts** channel
 2. configure incoming webhook
-3. configure nagios to send to team
+3. install the plugin (github coming soon)
+4. configure Nagios to send [MessageCard](https://docs.microsoft.com/en-us/outlook/actionable-messages/message-card-reference) to Teams
 
-users can join/leave teams and subscribe to channels for push
 
 [teams.microsoft.com](https://teams.microsoft.com)  or Teams app
 
 team code: ieg2r96
+
+---
+
+Now Users Can:
+* join/leave Teams and 
+* subscribe to channels for push
+* discuss in teams
+
+[teams.microsoft.com](https://teams.microsoft.com)  or Teams app
+
+team code: ieg2r96
+
+---
+
+## Thank you!
+
+Questions?
